@@ -16,5 +16,4 @@ services:
         - mysql
 networks:
   mysql:
-    external:
       name: mysql_default
